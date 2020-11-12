@@ -1,5 +1,0 @@
-Hey there. This is a very positive text file.
-
-I look forward to working on this assignment.
-
-Sentiment analysis is pretty cool.

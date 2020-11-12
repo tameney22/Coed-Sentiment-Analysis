@@ -2,7 +2,7 @@
 
 **Project Site:** [Link Here](https://iwrite.wludci.info/dci102/)
 <br/>
-Performing sentiment analysis on letters using the Bing Liu lexicon. After a sentiment score and net-sentiment score are calculated, their change across time is observed using time series plots.
+Performing sentiment analysis on letters regarding the coeducation debate at Washington and Lee using the Bing Liu lexicon. After a sentiment score and net-sentiment score are calculated, their change across time is observed using time series plots.
 ### Getting Started
 
   - Create a **data** folder to store the corpus and a metadata.csv file. The metadata will be used in [sentiment.py](https://github.com/tameney22/Coed-Sentiment-Analysis/blob/main/sentiment.py) to retrieve the relevant information for creating the three CSVs: posCloud, negCloud, and output. The metadata data model can be found in the data section on the project site.
