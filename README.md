@@ -1,6 +1,7 @@
 # Sentiment Analysis
 
 **Project Site:** [Link Here](https://iwrite.wludci.info/dci102/)
+<br/>
 Performing sentiment analysis on letters using the Bing Liu lexicon. After a sentiment score and net-sentiment score are calculated, their change across time is observed using time series plots.
 ### Getting Started
 
